@@ -1,0 +1,10 @@
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\bin\Debug\hizliresimSikayet.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\bin\Debug\hizliresimSikayet.exe
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\bin\Debug\hizliresimSikayet.pdb
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\obj\Debug\hizliresimSikayet.Form1.resources
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\obj\Debug\hizliresimSikayet.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\obj\Debug\hizliresimSikayet.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\obj\Debug\hizliresimSikayet.exe
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\obj\Debug\hizliresimSikayet.pdb
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\obj\Debug\hizliresimSikayet.Form2.resources
+c:\users\harun\documents\visual studio 2015\Projects\hizliresimSikayet\hizliresimSikayet\obj\Debug\hizliresimSikayet.csprojResolveAssemblyReference.cache
